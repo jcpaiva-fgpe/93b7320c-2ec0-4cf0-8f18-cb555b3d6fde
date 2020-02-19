@@ -1,0 +1,1 @@
+{"fieldname":"input","originalname":"teste3in.txt","encoding":"7bit","mimetype":"text/plain","buffer":{"type":"Buffer","data":[55,10,49,32,50,32,49,32,50,32,49,32,50,32,49,10,50,32,51,32,49,32,50,32,49,32,51,32,53,10]},"size":30}
