@@ -1,0 +1,1 @@
+{"fieldname":"output","originalname":"teste9out.txt","encoding":"7bit","mimetype":"text/plain","buffer":{"type":"Buffer","data":[48,10,48,10]},"size":4}
